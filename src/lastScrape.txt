@@ -1,0 +1,4158 @@
+
+
+    <!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MPL2XXQ"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+    <div class="mainContainer">
+        
+
+
+
+
+
+
+	<div class="headerMain ga_menu homeHeader">
+ 		
+
+<div class="section"></div><div class="iparys_inherited"><div class="par_pageheader iparsys udelparsys">
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="hiddenUdailyKeywords">
+	
+</div>
+
+<div class="skip-content">
+	<a href="#main-content" class="skip-content-link">Skip to site content</a>
+</div>
+
+<div class="above-header-search">
+	<div class="searchField above-header">
+		<div class="gsc-control-searchbox-only gsc-control-searchbox-only-en" dir="ltr" role="group" aria-labelledby="cse-search-box">
+			<form id="cse-search-box" name="cse-search-box" class="search searchWebDirectory gsc-search-box" method="get" action="/udel-search.html">
+				<div id="gsc-search-box-mobile">
+					<div id="gsc-search-box-row-mobile">
+						<div id="gsc-input-mobile">
+							<input type="hidden" name="cx" value="013351329533778082783:fdysbzypdiy">
+							<input type="hidden" name="cof" value="FORID:10">
+							<input type="hidden" name="ie" value="UTF-8">
+							<input type="text" name="q" id="q" aria-label="Search" class="text_input gsc-input inputClass">
+						</div>
+						<div id="gsc-search-button-mobile">
+							<input type="submit" name="sa" value="Search" class="submit gsc-search-button">
+						</div>
+					</div>
+				</div>
+
+				
+					
+				
+					
+				
+			</form>
+		</div>
+	</div>
+</div>
+
+
+
+<header>
+    <div class="header-container">
+        <div class="logo-udel">
+            <div class="img-responsive">
+                <a target="_self" href="/home/">
+                    <img src="/content/dam/udelImages/main/graphics/udelLogoImages/logo-udel.png" alt="University of Delaware" title="University of Delaware" class="cq-dd-image">
+                </a>
+            </div>
+        </div>
+        <div class="header-icons">
+            <ul class="icon-list">
+                
+                    
+                    <li class="header-icon visit"><a href="https://www.udel.edu/about/visit/?utm_source=homepage&amp;utm_medium=icon&amp;utm_campaign=header_visit" title="Visit" alt="Visit"><img title="Visit" src="/content/dam/udelImages/main/graphics/udelLogoImages/icon-header-visit.png" target="_self" alt="Visit"></a></li>
+                    
+                    <li class="header-icon visit"><a href="https://www.udel.edu/apply/?utm_source=homepage&amp;utm_medium=icon&amp;utm_campaign=header_apply" title="Apply" alt="Apply"><img title="Apply" src="/content/dam/udelImages/main/graphics/udelLogoImages/icon-header-apply.png" target="_self" alt="Apply"></a></li>
+                    
+                    <li class="header-icon visit"><a href="https://www.udel.edu/alumni-friends/give/?utm_source=homepage&amp;utm_medium=icon&amp;utm_campaign=header_give" title="Give" alt="Give"><img title="Give" src="/content/dam/udelImages/main/graphics/udelLogoImages/icon-header-give.png" target="_self" alt="Give"></a></li>
+                    
+                
+                <li class="header-icon search"><a href="" title="" onclick=""><img title="Search" src="/content/dam/udelImages/main/graphics/udelLogoImages/icon-header-search.png" target="_self" alt="Search"></a></li>
+            </ul>
+
+            <div class="regular-search-field">
+                <div class="searchField" style="text-align: left; z-index:5;">
+                    <div class="gsc-control-searchbox-only gsc-control-searchbox-only-en" dir="ltr" role="group" aria-labelledby="cse-search-box-js">
+                        <form id="cse-search-box-js" name="cse-search-box" class="search searchWebDirectory gsc-search-box" method="get" action="/udel-search.html">
+                            <div id="gsc-search-box">
+                                <div id="gsc-search-box-row">
+                                    <div id="gsc-input">
+                                        <input type="hidden" name="cx" value="013351329533778082783:fdysbzypdiy">
+                                        <input type="hidden" name="cof" value="FORID:10">
+                                        <input type="hidden" name="ie" value="UTF-8">
+                                        <input type="text" name="q" id="q-2" aria-label="Search" class="text_input gsc-input inputClass">
+                                    </div>
+                                    <div id="gsc-search-button">
+                                        <input type="submit" name="sa" value="Search" class="submit gsc-search-button">
+                                    </div>
+                                </div>
+                            </div>
+
+                            
+                                
+                            
+                                
+                            
+
+                        </form>
+                    </div>
+                    <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+                </div>
+            </div>
+            
+                <div class="dropdown dropdown-menu-right" style="margin:0 0 0 30px; position:relative; top:30px;">
+                    <button class="dropdown-toggle quick-links" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        <label> Quick Links</label> <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                        
+                            
+                        <li><a href="https://my.udel.edu/" title="MyUD" target="_self">MyUD</a></li>
+                        	
+                        <li><a href="http://www1.udel.edu/maps/" title="Maps" target="_self">Maps</a></li>
+                        	
+                        <li><a href="http://www1.udel.edu/peoplesearch/" title="People Directory" target="_self">People Directory</a></li>
+                        	
+                        <li><a href="https://www1.udel.edu/mail/" title="Email" target="_self">Email</a></li>
+                        	
+                        <li><a href="https://www.udel.edu/faculty-staff/human-resources/careers/?utm_source=homepage&amp;utm_medium=quick_links&amp;utm_campaign=Quick_Links_Careers" title="Careers" target="_self">Careers</a></li>
+                        	
+                        <li><a href="https://library.udel.edu" title="Library" target="_self">Library</a></li>
+                        	
+                        <li><a href="/home/a-z/" title="A-Z Index" target="_self">A-Z Index</a></li>
+                        	
+                        <li><a href="/udaily/" title="News" target="_self">News</a></li>
+                        	
+                        <li><a href="https://events.udel.edu" title="Events" target="_self">Events</a></li>
+                        	
+                        <li><a href="/students/safety/" title="Safety at UD" target="_self">Safety at UD</a></li>
+                        	
+                    	
+                	</ul>
+            	</div>
+        	
+    	</div>
+
+        
+        	<div class="icon-mobile-menu" data-toggle=".mainContainer" id="sidebar-toggle" aria-label="Open Main Navigation" tabindex="0"></div>
+        
+	</div>
+</header>
+
+
+
+
+    <nav id="nav-bar">
+        <div class="container">
+            <div id="sidebar">
+                <div class="header-icons">
+                    <ul class="icon-list">
+                        
+                            
+                                <li class="header-icon visit">
+                                    <a href="https://www.udel.edu/about/visit/?utm_source=homepage&amp;utm_medium=icon&amp;utm_campaign=header_visit" title="Visit" alt="Visit">
+                                        <img title="Visit" src="/content/dam/udelImages/main/graphics/udelLogoImages/icon-header-visit.png" target="_self" alt="Visit">
+                                    </a>
+                                </li>
+                            
+                                <li class="header-icon visit">
+                                    <a href="https://www.udel.edu/apply/?utm_source=homepage&amp;utm_medium=icon&amp;utm_campaign=header_apply" title="Apply" alt="Apply">
+                                        <img title="Apply" src="/content/dam/udelImages/main/graphics/udelLogoImages/icon-header-apply.png" target="_self" alt="Apply">
+                                    </a>
+                                </li>
+                            
+                                <li class="header-icon visit">
+                                    <a href="https://www.udel.edu/alumni-friends/give/?utm_source=homepage&amp;utm_medium=icon&amp;utm_campaign=header_give" title="Give" alt="Give">
+                                        <img title="Give" src="/content/dam/udelImages/main/graphics/udelLogoImages/icon-header-give.png" target="_self" alt="Give">
+                                    </a>
+                                </li>
+                            
+                        
+
+                        <li class="header-icon visit"><a href="" title="" onclick="showMobileSearch();return false;"><img title="Search" src="/content/dam/udelImages/main/graphics/udelLogoImages/icon-header-search.png" target="_self" alt="Search"></a></li>
+                    </ul>
+
+                    <button class="btn btn-primary" type="button" id="button" data-toggle="collapse" data-target="#quicklink_mobile">
+                        Quick Links <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
+                    </button>
+
+                    <div id="quicklink_mobile" class="collapse">
+                        <ul>
+                            
+                                
+                                    <li><a href="https://my.udel.edu/" title="MyUD" target="_self">MyUD</a></li>
+                                
+                                    <li><a href="http://www1.udel.edu/maps/" title="Maps" target="_self">Maps</a></li>
+                                
+                                    <li><a href="http://www1.udel.edu/peoplesearch/" title="People Directory" target="_self">People Directory</a></li>
+                                
+                                    <li><a href="https://www1.udel.edu/mail/" title="Email" target="_self">Email</a></li>
+                                
+                                    <li><a href="https://www.udel.edu/faculty-staff/human-resources/careers/?utm_source=homepage&amp;utm_medium=quick_links&amp;utm_campaign=Quick_Links_Careers" title="Careers" target="_self">Careers</a></li>
+                                
+                                    <li><a href="https://library.udel.edu" title="Library" target="_self">Library</a></li>
+                                
+                                    <li><a href="/home/a-z/" title="A-Z Index" target="_self">A-Z Index</a></li>
+                                
+                                    <li><a href="/udaily/" title="News" target="_self">News</a></li>
+                                
+                                    <li><a href="https://events.udel.edu" title="Events" target="_self">Events</a></li>
+                                
+                                    <li><a href="/students/safety/" title="Safety at UD" target="_self">Safety at UD</a></li>
+                                
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="nav-menu"></div>
+
+            <ul class="navbar-nav nav-justified clearfix">
+                <li class="dropdown1"><a target="_self" href="/about/">About UD</a> <span class="glyphicon glyphicon-plus" tabindex="0" aria-label="Toggle Menu"></span>
+                                
+                            <ul class="dropdown-menu">
+                            <li><a target="_self" href="/about/leadership/">Leadership </a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/about/mission/">Mission</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/about/visit/">Experience UD</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/about/ud-state-delaware/">UD and the State of Delaware</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/about/history/">History</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/about/facts-figures/">Facts &amp; Figures</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/about/ud-community/">UD Community</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/about/values/">Values</a> 
+                                
+                            </li>
+                            
+                            </ul>
+                            
+                            </li>
+                            <li class="dropdown1"><a target="_self" href="/apply/">Prospective Students</a> <span class="glyphicon glyphicon-plus" tabindex="0" aria-label="Toggle Menu"></span>
+                                
+                            <ul class="dropdown-menu">
+                            <li><a target="_self" href="/apply/career-outcomes/">Success After UD</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/apply/undergraduate-admissions/">Undergraduate Admissions</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="http://grad.udel.edu">Graduate Admissions</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="http://www.pcs.udel.edu/">Professional &amp; Continuing Studies</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="http://online.udel.edu/">Online Programs</a> 
+                                
+                            </li>
+                            
+                            </ul>
+                            
+                            </li>
+                            <li class="dropdown1"><a target="_self" href="/students/">Current Students</a> <span class="glyphicon glyphicon-plus" tabindex="0" aria-label="Toggle Menu"></span>
+                                
+                            <ul class="dropdown-menu">
+                            <li><a target="_self" href="https://events.udel.edu/calendar/month?event_types[]=8128">Academic Calendar</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/students/reslife/">Housing</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/students/student-financial-services/">Finances &amp; Aid</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="https://www.advising.udel.edu/">Advising</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/students/safety/">Safety</a> 
+                                
+                            </li>
+                            
+                            </ul>
+                            
+                            </li>
+                            <li class="dropdown1"><a target="_self" href="/faculty-staff/">Faculty &amp; Staff</a> <span class="glyphicon glyphicon-plus" tabindex="0" aria-label="Toggle Menu"></span>
+                                
+                            <ul class="dropdown-menu">
+                            <li><a target="_self" href="/content/udel/en/faculty-staff/human-resources/careers">Careers</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/faculty-staff/experts/">Experts</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/faculty-staff/employee-resources/">Employee Resources</a> 
+                                
+                            </li>
+                            
+                            </ul>
+                            
+                            </li>
+                            <li class="dropdown1"><a target="_self" href="/alumni-friends/">Alumni &amp; Friends</a> <span class="glyphicon glyphicon-plus" tabindex="0" aria-label="Toggle Menu"></span>
+                                
+                            <ul class="dropdown-menu">
+                            <li><a target="_self" href="/alumni-friends/connect/">Connect</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/alumni-friends/give/">Give</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/alumni-friends/resources/">Resources</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/alumni-friends/about/">About</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/alumni-friends/delaware-first/">Delaware First Campaign</a> 
+                                
+                            </li>
+                            
+                            </ul>
+                            
+                            </li>
+                            <li class="dropdown1"><a target="_self" href="/academics/">Academics</a> <span class="glyphicon glyphicon-plus" tabindex="0" aria-label="Toggle Menu"></span>
+                                
+                            <ul class="dropdown-menu">
+                            <li><a target="_self" href="/academics/colleges/">Colleges</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="https://library.udel.edu/">Library</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/academics/programs/">Programs</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/academics/global/">UD Global</a> 
+                                
+                            </li>
+                            
+                            </ul>
+                            
+                            </li>
+                            <li class="dropdown1"><a target="_self" href="/research-innovation/">Research &amp; Innovation</a> <span class="glyphicon glyphicon-plus" tabindex="0" aria-label="Toggle Menu"></span>
+                                
+                            <ul class="dropdown-menu">
+                            <li><a target="_self" href="https://research.udel.edu/">Research at UD </a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/research-innovation/horn/">Horn Entrepreneurship</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/research-innovation/star/">STAR Campus</a> 
+                                
+                            </li>
+                            <li><a target="_self" href="/research-innovation/innovation-gateway/">Innovation Gateway</a> 
+                                
+                            </li>
+                            
+                            </ul>
+                            
+                            </li>
+                            <li class="dropdown1"><a target="_self" href="/athletics/">Athletics</a> <span class="glyphicon glyphicon-plus" tabindex="0" aria-label="Toggle Menu"></span>
+                                
+                            <ul class="dropdown-menu">
+                            <li><a target="_self" href="http://www.bluehens.com/?utm_source=homepage&amp;utm_medium=navigation&amp;utm_campaign=BlueHens_homepage">BlueHens.com</a> 
+                                
+                            </li>
+                            
+                            </ul>
+                            
+                            </li>
+                            
+            </ul>
+
+            
+        </div>
+    </nav>
+
+
+
+
+<script>
+	function showMobileSearch() {
+		if ($(window).width() < 768) {
+			$(".above-header-search").show();
+			$(".above-header-search .gsc-search-box").show();
+			$(".mainContainer").addClass("open-search");
+		}
+	}
+</script></div>
+</div>
+
+	</div>
+
+         
+
+
+
+
+
+
+<div class="main-content" id="main-content">
+    <div class="print-enabled-header">
+        <img src="/etc/designs/udel/common-clientlibs/img/ud-header-print.png" alt="University of Delaware Logo">
+    </div>
+
+	<div class="udel-global-home">
+         <div class="mainPageTitleWrapperHavingHero">
+             <div class="container">
+        		
+
+
+
+
+
+
+
+	<style>
+        /*.mainPageTitleWrapper{
+            position: absolute;
+            background-color: rgba(0,0,0,0.4);
+            width: 100%;
+            z-index: 2;
+         }
+         .mainPageTitle{
+            position:relative !important;
+    }*/
+	</style>
+
+
+
+
+             </div>
+        </div>
+
+        <div class="container leftnav_overhero">
+            <div class="row">
+            </div>
+		</div>
+
+		<div class="hero">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://player.vimeo.com/api/player.js"></script>
+
+
+
+
+    <style>
+        @media only screen and (min-width: 1025px) {
+            .udel-global-home .hero {
+                top: -97px;
+            }
+
+            .main-panel{
+                margin-top: -97px;
+            }
+        }
+    </style>
+ 
+
+
+    
+        <div class="heroareaHavingVideo">
+            <i id="heroVideoControl" tabindex="0" aria-label="Pause Video"></i>
+            <video id="heroVideoElement" width="100%" height="auto" loop="" autoplay="" muted="">
+            <source src="/content/dam/udelImages/main/video/hero-052021.mp4" type="video/mp4">
+            <!-- <source src="movie.ogg" type="video/ogg"> -->
+            Your browser does not support the video tag.
+		</video>
+        <img src="/content/dam/udelImages/main/video/homepage mobile screengrabs/Campus-Fall-111021-042.jpg" title="Fall campus scene" alt="Fall campus scene" class="heroImage">
+        </div>
+		<div class="hero-cta row col-xs-12 col-sm-12 col-md-12">
+            <h1>Your future starts now. <br>Become a Blue Hen. </h1>
+            
+            
+		</div>
+    
+
+    
+
+	
+
+		</div>
+
+		<div class="main-panel">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.callpanel360493{
+	width: 100%;
+	height: px;
+    padding: 0px;
+	
+	
+	
+	
+	
+}
+
+
+
+
+@media only screen and (min-width: 769px) {
+	.content-panel{margin-top:-100px}
+}
+
+
+
+
+
+
+
+@media (min-width:769px) {
+.callpanel360493{
+	padding: 0px 0px 0px 0px !important;
+}
+}
+
+</style>
+
+
+	
+    
+
+
+
+            
+
+
+
+
+
+
+
+
+
+<div>
+    
+</div>
+
+<div>
+    
+
+
+
+<div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+<div>
+    
+    <div class="cq-dd-paragraph">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	
+    
+      
+</style>
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.callpanel458911{
+	width: 100%;
+    padding: 25px 0px;
+    
+    
+    	background-color:#FFFFFF;
+	
+    
+    	background-position: center top;
+	
+	
+}
+
+
+
+
+
+.callpanel458911 .container{ width: 100%; max-width: 1140px; }
+.callpanel458911 .container > :first-child + div   { margin-top: 0 !important; padding-top: 0 !important; }
+.callpanel458911 .container > :last-child > :last-child { margin-bottom: 0 !important; }
+
+
+
+
+@media (min-width:769px) {
+	.callpanel458911.padding{
+        padding: 100px 0px 100px 0px !important;
+    }
+}
+
+
+</style>
+
+
+	
+        
+        
+    		<div class="callpanel458911 padding">
+        		<div class="container">
+            		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="textComponent textComponent859341" style="background:transparent !important;">
+	<h2 style="text-align: center;"><span style="color: #00539F;">Visit University of Delaware</span></h2>
+<h4 style="text-align: center;"><br>
+UD is nationally ranked, with award-winning faculty, a beautiful, vibrant campus, and opportunities to change the world in our campus labs and classrooms, or through internship and study abroad programs around the globe.</h4>
+<h4 style="text-align: center;"><br>
+<b>Experience UD for yourself.&nbsp;</b></h4>
+
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	
+    
+      
+</style>
+
+
+    
+    
+        
+        
+            <div class="row">
+                
+                    <div class="col-md-8 margin_b_30 col-sm-8 col-xs-12 columnGeneratorClass columnGenerator361144_0">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	
+    
+      
+</style>
+
+
+    
+    
+        
+        
+            <div class="row">
+                
+                    <div class="col-md-6 margin_b_30 col-sm-6 col-xs-12 columnGeneratorClass columnGenerator773403_0">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+        <a href="/apply/undergraduate-admissions/plan-your-visit/" aria-label="Schedule a tour">
+        
+        
+        
+        <div class="callout-carousel-full-image margin_t_20">
+        <img src="/content/referenced-components/home-page-references/2022-q1/_jcr_content/par_udel_panel/columngenerator_457747539/par/panelforpages/par_1/columngenerator_1844387066/par_0/columngenerator/par_0/calloutfullimage.img.jpg/1633461236511.jpg" alt="The Green on campus" title=" " class="full-width">
+
+        <div class="callout-carousel-full-image-content">
+            <div class="callout-subhead">
+                <p>&nbsp;</p>
+<p>Reserve Your Place</p>
+
+            </div>
+            <div class="callout-headline">
+                <p>Schedule a Tour</p>
+
+            </div>
+        </div>
+        
+            <div class="callout-carousel-full-image-link">
+                <div class="arrow-container">
+                    <i class="fa fa-angle-right"></i>
+                </div>
+            </div>
+        
+    </div>
+    
+    </a>
+
+
+
+
+
+                        </div>
+                    
+                
+                    <div class="col-md-6 margin_b_30 col-sm-6 col-xs-12 columnGeneratorClass columnGenerator773403_1">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <a href="https://youvis.it/t5C18f" aria-label="Virtual Tour">
+        
+        
+        
+        <div class="callout-carousel-full-image margin_t_20">
+        <img src="/content/referenced-components/home-page-references/2022-q1/_jcr_content/par_udel_panel/columngenerator_457747539/par/panelforpages/par_1/columngenerator_1844387066/par_0/columngenerator/par_1/calloutfullimage.img.jpg/1627330880002.jpg" alt="Mentor's Circle" title=" " class="full-width">
+
+        <div class="callout-carousel-full-image-content">
+            <div class="callout-subhead">
+                <p>&nbsp;</p>
+<p>Explore From Home</p>
+
+            </div>
+            <div class="callout-headline">
+                <p>Virtual Tour</p>
+
+            </div>
+        </div>
+        
+            <div class="callout-carousel-full-image-link">
+                <div class="arrow-container">
+                    <i class="fa fa-angle-right"></i>
+                </div>
+            </div>
+        
+    </div>
+    
+    </a>
+
+
+
+
+
+                        </div>
+                    
+                
+            </div>
+        
+    
+
+
+                        </div>
+                    
+                
+                    <div class="col-md-4 margin_b_30 col-sm-4 col-xs-12 columnGeneratorClass columnGenerator361144_1">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="callToActionComponent delawareYellowGoldBackground-darkBlueText margin_t_20">
+		<h3>
+            
+			 <a href="https://apply.udel.edu/account/" aria-label="Submit Your Deposit">
+			
+			Submit Your Deposit
+			
+				&gt;
+			
+			</a>
+		</h3>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="callToActionComponent delawareBlueBackground-whiteText margin_t_20">
+		<h3>
+            
+			 <a href="/apply/undergraduate-admissions/" aria-label="Undergraduate Admissions">
+			
+			Undergraduate Admissions
+			
+				&gt;
+			
+			</a>
+		</h3>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="callToActionComponent delawareBlueBackground-whiteText margin_t_20">
+		<h3>
+            
+			 <a href="/apply/undergraduate-admissions/major-finder/" aria-label="Major Finder">
+			
+			Major Finder
+			
+				&gt;
+			
+			</a>
+		</h3>
+	</div>
+
+
+
+
+                        </div>
+                    
+                
+            </div>
+        
+    
+
+
+            	</div>
+        	</div>
+        
+	
+    
+
+
+
+
+    
+    
+
+    </div>
+    
+</div>
+
+<div>
+    
+
+
+
+<div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+<div>
+    
+    <div class="cq-dd-paragraph">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	
+    
+      
+</style>
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.callpanel93615{
+	width: 100%;
+    padding: 25px 0px;
+    
+    	background-image: url('/content/dam/udelImages/main/graphics/layout/panel-images/bhm-panel-2.jpeg');
+        background-repeat: no-repeat;
+        background-size: cover;
+   	
+    
+    
+    	background-position: center top;
+	
+	
+}
+
+
+
+
+
+.callpanel93615 .container{ width: 100%; max-width: 1140px; }
+.callpanel93615 .container > :first-child + div   { margin-top: 0 !important; padding-top: 0 !important; }
+.callpanel93615 .container > :last-child > :last-child { margin-bottom: 0 !important; }
+
+
+
+
+@media (min-width:769px) {
+	.callpanel93615.padding{
+        padding: 100px 0px 100px 0px !important;
+    }
+}
+
+
+</style>
+
+
+	
+        
+        
+    		<div class="callpanel93615 padding">
+        		<div class="container">
+            		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="textComponent textComponent294045" style="background:transparent !important;">
+	<h2 style="text-align: center;"><span class="rteLightText" style="color: rgb(255,255,255);"><a id="bhm"></a>Black History Month at UD</span></h2>
+<h3 style="text-align: center;"><span class="rteLightText" style="color: rgb(255,255,255);">Join the UD community as we celebrate the contributions of African Americans across society and work together toward a more just and equitable future.&nbsp;</span></h3>
+
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <ul class="callout-carousel">
+        
+            
+            
+            
+            
+            
+            
+            
+			
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+                <li>
+                    
+                        
+                        
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+
+
+
+    
+        
+    
+    
+
+
+
+
+
+    <div class="callout-carousel-text-image margin_t_20 callout-border" style="padding: 15px">
+        <div class="top">
+            <a href="/udaily/2023/january/black-history-month-events-diversity-equity-inclusion-learning/" class="link" target="_self" aria-label="Read More about Black History Month at UD" style="text-decoration:none">
+                <img src="/content/callouts/Homepage/bhm-2023-callouts/2023-bhm-events/_jcr_content/calloutValues.img.png/1676923946072.png" alt=" " title=" " class="full-width">
+            </a>
+        </div>
+        <div class="footer">
+            <div class="title">
+                
+            </div>
+            <div class="content">
+                <p>February is Black History Month, and the University of Delaware will celebrate critical contributions and activism of African Americans.&nbsp;</p>
+
+            </div>
+            
+                
+                
+                    <div class="calloutLink">
+                        <a href="/udaily/2023/january/black-history-month-events-diversity-equity-inclusion-learning/" class="link" target="_self" aria-label="Read More about Black History Month at UD">Read More</a>
+                    </div>
+                
+            
+        </div>
+    </div>
+
+                        
+                        
+                        
+                        
+                        
+                    
+                </li>
+            
+        
+            
+            
+            
+            
+            
+            
+            
+			
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+                <li>
+                    
+                        
+                        
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+
+
+
+    
+        
+    
+    
+
+
+
+
+
+    <div class="callout-carousel-text-image margin_t_20 callout-border" style="padding: 15px">
+        <div class="top">
+            <a href="/udaily/2023/february/mellon-grant-poetry-as-activism-project-library/" class="link" target="_self" aria-label="Read More " style="text-decoration:none">
+                <img src="/content/callouts/Homepage/bhm-2023-callouts/poetry-as-activism/_jcr_content/calloutValues.img.jpg/1676923892417.jpg" alt=" " title=" " class="full-width">
+            </a>
+        </div>
+        <div class="footer">
+            <div class="title">
+                <p>Poetry as activism</p>
+
+            </div>
+            <div class="content">
+                <p>A grant from the Mellon Foundation will support a UD Library project focused on 20th-century poet-activists of color.&nbsp;</p>
+
+            </div>
+            
+                
+                
+                    <div class="calloutLink">
+                        <a href="/udaily/2023/february/mellon-grant-poetry-as-activism-project-library/" class="link" target="_self" aria-label="Read More ">Read More</a>
+                    </div>
+                
+            
+        </div>
+    </div>
+
+                        
+                        
+                        
+                        
+                        
+                    
+                </li>
+            
+        
+            
+            
+            
+            
+            
+            
+            
+			
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+                <li>
+                    
+                        
+                        
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+
+
+
+    
+        
+    
+    
+
+
+
+
+
+    <div class="callout-carousel-text-image margin_t_20 callout-border" style="padding: 15px">
+        <div class="top">
+            <a href="/udaily/2023/february/black-history-month-epidemiology-marginalized-veterans-military/" class="link" target="_self" aria-label="Read More " style="text-decoration:none">
+                <img src="/content/callouts/Homepage/bhm-2023-callouts/peace-exchange/_jcr_content/calloutValues.img.jpg/1676923457268.jpg" alt=" " title=" " class="full-width">
+            </a>
+        </div>
+        <div class="footer">
+            <div class="title">
+                <p>The peace exchange</p>
+
+            </div>
+            <div class="content">
+                <p>Epidemiology student Asli McCullers stresses need to improve health of marginalized veterans</p>
+
+            </div>
+            
+                
+                
+                    <div class="calloutLink">
+                        <a href="/udaily/2023/february/black-history-month-epidemiology-marginalized-veterans-military/" class="link" target="_self" aria-label="Read More ">Read More</a>
+                    </div>
+                
+            
+        </div>
+    </div>
+
+                        
+                        
+                        
+                        
+                        
+                    
+                </li>
+            
+        
+            
+            
+            
+            
+            
+            
+            
+			
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+                <li>
+                    
+                        
+                        
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+
+
+
+    
+        
+    
+    
+
+
+
+
+
+    <div class="callout-carousel-text-image margin_t_20 callout-border" style="padding: 15px">
+        <div class="top">
+            <a href="/alumni-friends/stories/2023/breaking-boys-club-alumna-hodge-johnson/" class="link" target="_self" aria-label="Read More about Prof. Ware" style="text-decoration:none">
+                <img src="/content/callouts/Homepage/bhm-2023-callouts/breaking-up-the-boys-club/_jcr_content/calloutValues.img.jpg/1675876440763.jpg" alt=" " title=" " class="full-width">
+            </a>
+        </div>
+        <div class="footer">
+            <div class="title">
+                <p>Breaking up the Boy's Club</p>
+
+            </div>
+            <div class="content">
+                <p>UD alumna Andrea Hodge-Johnson discusses her path to success and ways that we can create more inroads for Black women in the technology industry.&nbsp;<br>
+</p>
+
+            </div>
+            
+                
+                
+                    <div class="calloutLink">
+                        <a href="/alumni-friends/stories/2023/breaking-boys-club-alumna-hodge-johnson/" class="link" target="_self" aria-label="Read More about Prof. Ware">Read More</a>
+                    </div>
+                
+            
+        </div>
+    </div>
+
+                        
+                        
+                        
+                        
+                        
+                    
+                </li>
+            
+        
+            
+            
+            
+            
+            
+            
+            
+			
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+                <li>
+                    
+                        
+                        
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+
+
+
+    
+        
+    
+    
+
+
+
+
+
+    <div class="callout-carousel-text-image margin_t_20 callout-border" style="padding: 15px">
+        <div class="top">
+            <a href="/alumni-friends/stories/2023/carrying-tourch-professor-leland-ware-biden/" class="link" target="_self" aria-label="Read More about Prof. Ware" style="text-decoration:none">
+                <img src="/content/callouts/Homepage/bhm-2023-callouts/carrying-the-torch/_jcr_content/calloutValues.img.jpg/1675876573000.jpg" alt=" " title=" " class="full-width">
+            </a>
+        </div>
+        <div class="footer">
+            <div class="title">
+                <p>Carrying the torch&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+            </div>
+            <div class="content">
+                <p>Professor Leland Ware carries on Louis L. Redding’s legacy as a civil rights champion.&nbsp;<br>
+<br>
+<br>
+</p>
+
+            </div>
+            
+                
+                
+                    <div class="calloutLink">
+                        <a href="/alumni-friends/stories/2023/carrying-tourch-professor-leland-ware-biden/" class="link" target="_self" aria-label="Read More about Prof. Ware">Read More</a>
+                    </div>
+                
+            
+        </div>
+    </div>
+
+                        
+                        
+                        
+                        
+                        
+                    
+                </li>
+            
+        
+            
+            
+            
+            
+            
+            
+            
+			
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+                <li>
+                    
+                        
+                        
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+
+
+
+    
+        
+    
+    
+
+
+
+
+
+    <div class="callout-carousel-text-image margin_t_20 callout-border" style="padding: 15px">
+        <div class="top">
+            <a href="/udaily/2023/january/celebrating-the-history-of-black-dance/" class="link" target="_self" aria-label="Read More about the event series" style="text-decoration:none">
+                <img src="/content/callouts/Homepage/bhm-2023-callouts/celebrating-history-of-black-dance/_jcr_content/calloutValues.img.jpg/1675108388342.jpg" alt=" " title=" " class="full-width">
+            </a>
+        </div>
+        <div class="footer">
+            <div class="title">
+                <p>Celebrating the History of Black Dance</p>
+
+            </div>
+            <div class="content">
+                <p>A series of events exploring Black dance in film will be held as part of UD's Black History Month events.&nbsp;<br>
+<br>
+</p>
+
+            </div>
+            
+                
+                
+                    <div class="calloutLink">
+                        <a href="/udaily/2023/january/celebrating-the-history-of-black-dance/" class="link" target="_self" aria-label="Read More about the event series">Read More</a>
+                    </div>
+                
+            
+        </div>
+    </div>
+
+                        
+                        
+                        
+                        
+                        
+                    
+                </li>
+            
+        
+            
+            
+            
+            
+            
+            
+            
+			
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+                <li>
+                    
+                        
+                        
+                            
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+        
+    
+    
+
+
+
+    
+        
+    
+    
+
+
+
+
+
+    <div class="callout-carousel-text-image margin_t_20 callout-border" style="padding: 15px">
+        <div class="top">
+            <a href="/udaily/2023/january/symposium-to-honor-dr-james-newton/" class="link" target="_self" aria-label="Read More about the symposium" style="text-decoration:none">
+                <img src="/content/callouts/Homepage/bhm-2023-callouts/symposium-to-honor-late-james-newton/_jcr_content/calloutValues.img.jpg/1675108353147.jpg" alt=" " title=" " class="full-width">
+            </a>
+        </div>
+        <div class="footer">
+            <div class="title">
+                <p>Symposium to honor the late James Newton</p>
+
+            </div>
+            <div class="content">
+                <p>The late&nbsp;James Newton was an early leader of UD’s Black American Studies program and professor emeritus of Africana Studies.&nbsp;<br>
+</p>
+
+            </div>
+            
+                
+                
+                    <div class="calloutLink">
+                        <a href="/udaily/2023/january/symposium-to-honor-dr-james-newton/" class="link" target="_self" aria-label="Read More about the symposium">Read More</a>
+                    </div>
+                
+            
+        </div>
+    </div>
+
+                        
+                        
+                        
+                        
+                        
+                    
+                </li>
+            
+        
+    </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="callToActionComponent blackBackground-whiteText margin_t_20">
+		<h3>
+             <a href="/content/dam/udelImages/main/graphics/layout/panel-images/bhm-zoom-2-resize.jpg" target="_blank" aria-label="Download Black History Month Zoom Background">
+			
+			<i class="fa fa-download fa-lg" aria-hidden="true"></i>
+			Download Black History Month Zoom Background
+			
+				&gt;
+			
+			</a>
+		</h3>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="callToActionComponent charcoalGrayBackground-whiteText margin_t_20">
+		<h3>
+             <a href="https://events.udel.edu/search/events?event_types%5B%5D=42154804221555" target="_blank" aria-label="Black History Month Events at UD">
+			
+			<i class="fa fa-calendar fa-lg" aria-hidden="true"></i>
+			Black History Month Events at UD
+			
+				&gt;
+			
+			</a>
+		</h3>
+	</div>
+
+
+
+
+            	</div>
+        	</div>
+        
+	
+    
+
+
+
+
+    
+    
+
+    </div>
+    
+</div>
+
+<div>
+    
+
+
+
+<div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.callpanel245049{
+	width: 100%;
+    padding: 25px 0px;
+    
+    	background-image: url('/content/dam/udelImages/main/graphics/layout/panel-images/udaily-homepage-bg-2018.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+   	
+    
+    
+    	background-position: center top;
+	
+	
+}
+
+
+
+
+
+.callpanel245049 .container{ width: 100%; max-width: 1140px; }
+.callpanel245049 .container > :first-child + div   { margin-top: 0 !important; padding-top: 0 !important; }
+.callpanel245049 .container > :last-child > :last-child { margin-bottom: 0 !important; }
+
+
+@media (min-width:769px) {
+	.callpanel245049.padding{
+     	padding: 25px 0;
+    }
+}
+
+
+
+@media (min-width:769px) {
+	.callpanel245049.padding{
+        padding: 100px 0px 100px 0px !important;
+    }
+}
+
+
+</style>
+
+
+	
+        
+        
+    		<div class="callpanel245049 padding">
+        		<div class="container">
+            		
+
+
+
+
+
+
+
+
+<div class="textComponent margin_t_20">
+    <span style="display: block; color: rgb(85,85,85); margin-bottom: 20.0px !important;">
+<img src="/content/dam/udelImages/main/graphics/udelLogoImages/udaily-logo-header.png" alt="UDaily"> 
+<h2 style="color: #FFF; font-size: 20px;">The latest news from the University of Delaware</h2>
+</span>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	
+    
+      
+</style>
+
+
+    
+    
+        
+        
+            <div class="row">
+                
+                    <div class="col-md-8 margin_b_30 col-sm-8 col-xs-12 columnGeneratorClass columnGenerator348406_0">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+       <!-- Callout component markup -->
+       
+           
+           
+               
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+    
+        
+    
+    
+
+
+
+
+
+    <div class="callout-carousel-text-image margin_t_20 " style="padding: 15px">
+        <div class="top">
+            <a href="/udaily/2023/february/academic-enrichment-study-strategies-organization-time-management/" class="link" target="_self" aria-label="Read UDaily Story: Strategies for success" style="text-decoration:none">
+                <img src="/content/callouts/homepage-udaily/strategies-for-success/_jcr_content/calloutValues.img.jpg/1676478834218.jpg" alt=" " title=" " class="full-width">
+            </a>
+        </div>
+        <div class="footer">
+            <div class="title">
+                <p>Strategies for success</p>
+
+            </div>
+            <div class="content">
+                <p>The Office of Academic Enrichment helps students develop academic skills and strategies so they can be successful.&nbsp;<br>
+</p>
+
+            </div>
+            
+                
+                    <div class="calloutLink" style="text-align:left;">
+                        <a href="/udaily/2023/february/academic-enrichment-study-strategies-organization-time-management/" class="link" target="_self" aria-label="Read UDaily Story: Strategies for success">Read More</a>
+                    </div>
+                
+                
+            
+        </div>
+    </div>
+
+           
+           
+           
+			
+           
+       
+   
+
+
+
+
+                        </div>
+                    
+                
+                    <div class="col-md-4 margin_b_30 col-sm-4 col-xs-12 columnGeneratorClass columnGenerator348406_1">
+                        
+
+
+
+
+
+
+
+
+<div class="textComponent margin_t_20">
+    <h2 style="border-radius: 35px; border: 2.0px solid rgb(255,210,0); background: rgb(255,210,0); padding: 10.0px 20.0px; color: rgb(0,83,159); display: inline-block; text-align: center; margin-bottom: 15px;">Today's Stories</h2>
+</div><style>
+.udailyNewsFeed108862 { background: #; padding: 0px 15px; }
+.udailyNewsFeed108862 ul li { margin-bottom: 0px; }
+.udailyNewsFeed108862 ul.links-list { padding: 0px; }
+.udailyNewsFeed108862 ul.links-list li { padding: 0px; font-size: 16px; margin-left: 15px; font-family: 'greycliff-light'; margin-bottom: 10px; line-height: 24px; color: #FFFFFF; }
+.udailyNewsFeed108862 ul.links-list li a { color: #FFFFFF; text-transform: none; font-weight:bold; }
+</style>
+
+<div class="udailyNewsFeed108862">
+
+<ul class="links-list links-list108862" id="tagListMain">
+
+
+<li>
+<p><span>
+    <a href="/udaily/2023/february/willett-kempton-electric-vehicle-ev-range-research/" title="Can electric vehicles go the distance?" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/udel/en/udaily/2023/february/willett-kempton-electric-vehicle-ev-range-research' }, collect:  false, options: { obj: this }, componentPath: 'udel/components/pageComponets/udailyNewsFeed'})">Can electric vehicles go the distance?</a></span>
+    </p>
+</li>
+
+
+<li>
+<p><span>
+    <a href="/udaily/2023/february/scuba-delaware-diving-water-ocean-dive-class/" title="Deep dive on UD’s scuba program" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/udel/en/udaily/2023/february/scuba-delaware-diving-water-ocean-dive-class' }, collect:  false, options: { obj: this }, componentPath: 'udel/components/pageComponets/udailyNewsFeed'})">Deep dive on UD’s scuba program</a></span>
+    </p>
+</li>
+
+
+<li>
+<p><span>
+    <a href="/udaily/2023/february/graduation-events-class-2023/" title="Commencement 2023" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/udel/en/udaily/2023/february/graduation-events-class-2023' }, collect:  false, options: { obj: this }, componentPath: 'udel/components/pageComponets/udailyNewsFeed'})">Commencement 2023</a></span>
+    </p>
+</li>
+
+
+<li>
+<p><span>
+    <a href="/udaily/2023/february/vice-president-research-scholarship-innovation-search-finalists-town-halls/" title="Update: Vice President of Research, Scholarship and Innovation search" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/udel/en/udaily/2023/february/vice-president-research-scholarship-innovation-search-finalists-town-halls' }, collect:  false, options: { obj: this }, componentPath: 'udel/components/pageComponets/udailyNewsFeed'})">Update: Vice President of Research, Scholarship and Innovation search</a></span>
+    </p>
+</li>
+
+
+<li>
+<p><span>
+    <a href="/udaily/2022/april/ud-goldwater-scholars-2022/" title="Going for gold" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/udel/en/udaily/2022/april/ud-goldwater-scholars-2022' }, collect:  false, options: { obj: this }, componentPath: 'udel/components/pageComponets/udailyNewsFeed'})">Going for gold</a></span>
+    </p>
+</li></ul></div>
+
+
+
+
+
+
+
+
+<div class="textComponent margin_t_20">
+    <p style="text-align: center; margin-top: 30.0px;"><a adhocenable="false" href="/udaily/"><span class="button-dark">More UD News</span></a></p>
+</div>
+
+                        </div>
+                    
+                
+            </div>
+        
+    
+
+
+            	</div>
+        	</div>
+        
+	
+    
+
+
+
+
+
+
+
+
+
+
+<div>
+    
+    <div class="cq-dd-paragraph">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	
+    
+      
+</style>
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.callpanel317435{
+	width: 100%;
+    padding: 25px 0px;
+    
+    	background-image: url('/content/dam/udelImages/main/graphics/layout/callout-specific-images/gold-abstract-bg-majorfinder.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+   	
+    
+    	background-color:#FFD200;
+	
+    
+    	background-position: center top;
+	
+	
+}
+
+
+
+
+@media (max-width:767px) {
+	.callpanel317435{
+     	background-color:#FFD200 !important;
+        background-image: none !important;
+    }
+}
+
+
+.callpanel317435 .container{ width: 100%; max-width: 1140px; }
+.callpanel317435 .container > :first-child + div   { margin-top: 0 !important; padding-top: 0 !important; }
+.callpanel317435 .container > :last-child > :last-child { margin-bottom: 0 !important; }
+
+
+
+
+@media (min-width:769px) {
+	.callpanel317435.padding{
+        padding: 100px 0px 100px 0px !important;
+    }
+}
+
+
+</style>
+
+
+	
+        
+        
+    		<div class="callpanel317435 padding">
+        		<div class="container">
+            		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="textComponent textComponent514449" style="background:transparent !important;">
+	<h2>UD Among Best in the Nation</h2>
+<h4>&nbsp;</h4>
+<h4>The quality of a University of Delaware education continues to win national recognition with UD advancing four slots to the rank of #89 among the nation’s best overall universities, according to <i>U.S. News &amp; World Report</i>.&nbsp;</h4>
+
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <ul class="callout-carousel">
+        
+            
+            
+            
+            
+            
+            
+            
+			
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+                <li>
+                    
+                        
+							
+                            
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+<div class="callout-carousel-fun-fact background-00397B margin_t_20" style="background-color: #00539F">
+
+    <div class="texts text-FFFFFF" style="color: #ffffff">
+    	<div class="title">
+            <p style="text-align: center;">#38</p>
+
+        </div>
+        <div class="content">
+            <p style="text-align: center;">Top Public National Universities</p>
+
+        </div>
+     </div>
+    
+        
+        
+            <div class="no-arrow-spacer">
+            	</div>
+        
+	
+</div>
+
+
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                </li>
+            
+        
+            
+            
+            
+            
+            
+            
+            
+			
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+                <li>
+                    
+                        
+							
+                            
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+<div class="callout-carousel-fun-fact background-00397B margin_t_20" style="background-color: #ffffff">
+
+    <div class="texts text-FFFFFF" style="color: #00539f">
+    	<div class="title">
+            <p style="text-align: center;">#2</p>
+
+        </div>
+        <div class="content">
+            <p style="text-align: center;">Chemical Engineering Program</p>
+
+        </div>
+     </div>
+    
+        
+        
+            <div class="no-arrow-spacer">
+            	</div>
+        
+	
+</div>
+
+
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                </li>
+            
+        
+            
+            
+            
+            
+            
+            
+            
+			
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+                <li>
+                    
+                        
+							
+                            
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+<div class="callout-carousel-fun-fact background-00397B margin_t_20" style="background-color: #009DDB">
+
+    <div class="texts text-FFFFFF" style="color: #ffffff">
+    	<div class="title">
+            <p style="text-align: center;">#56</p>
+
+        </div>
+        <div class="content">
+            <p style="text-align: center;">Best Colleges for Veterans</p>
+
+        </div>
+     </div>
+    
+        
+        
+            <div class="no-arrow-spacer">
+            	</div>
+        
+	
+</div>
+
+
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                </li>
+            
+        
+            
+            
+            
+            
+            
+            
+            
+			
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+                <li>
+                    
+                        
+							
+                            
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+<div class="callout-carousel-fun-fact background-00397B margin_t_20" style="background-color: #003976">
+
+    <div class="texts text-FFFFFF" style="color: #ffffff">
+    	<div class="title">
+            <p style="text-align: center;">#135</p>
+
+        </div>
+        <div class="content">
+            <p style="text-align: center;">Best Value Schools<br>
+&nbsp;</p>
+
+        </div>
+     </div>
+    
+        
+        
+            <div class="no-arrow-spacer">
+            	</div>
+        
+	
+</div>
+
+
+                            
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                </li>
+            
+        
+    </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="callToActionComponent whiteBackground-darkBlueText margin_t_20">
+		<h3>
+            
+			 <a href="/udaily/2022/september/ud-us-news-undergraduate-rankings-2022-2023/" aria-label="Read Full Rankings Announcement">
+			<i class="fa fa-university fa-lg" aria-hidden="true"></i>
+			Read Full Rankings Announcement
+			
+				&gt;
+			
+			</a>
+		</h3>
+	</div>
+
+
+
+
+            	</div>
+        	</div>
+        
+	
+    
+
+
+
+
+    
+    
+
+    </div>
+    
+</div>
+
+<div>
+    
+
+
+
+<div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.callpanel484325{
+	width: 100%;
+    padding: 25px 0px;
+    
+    
+    	background-color:#FFFFFF;
+	
+    
+    	background-position: left bottom;
+	
+	
+}
+
+
+
+
+
+.callpanel484325 .container{ width: 100%; max-width: 1140px; }
+.callpanel484325 .container > :first-child + div   { margin-top: 0 !important; padding-top: 0 !important; }
+.callpanel484325 .container > :last-child > :last-child { margin-bottom: 0 !important; }
+
+
+
+
+@media (min-width:769px) {
+	.callpanel484325.padding{
+        padding: 80px 0px 100px 0px !important;
+    }
+}
+
+
+</style>
+
+
+	
+        
+        
+    		<div class="callpanel484325 padding">
+        		<div class="container">
+            		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="textComponent textComponent847177" style="background:transparent !important;">
+	<h2>What's Trending @ UD</h2>
+
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="textComponent margin_t_20">
+    <!-- SnapWidget -->
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/784284" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="callToActionComponent delawareBlueBackground-whiteText margin_t_20">
+		<h3>
+            
+			 <a href="/home/ocm/digital/social-media/directory/" aria-label="">
+			<i class="fa fa-mobile fa-lg" aria-hidden="true"></i>
+			Social Media Directory
+			
+				&gt;
+			
+			</a>
+		</h3>
+	</div>
+
+
+
+
+            	</div>
+        	</div>
+        
+	
+    
+
+
+<div class="reference section">
+
+
+
+
+
+
+
+<div>
+    
+    <div class="cq-dd-paragraph">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	
+    
+      
+</style>
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.callpanel521255{
+	width: 100%;
+    padding: 25px 0px;
+    
+    	background-image: url('/content/dam/udelImages/presidents-report-2021/abstract-blue-00539f-fb.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+   	
+    
+    
+    	background-position: center top;
+	
+	
+}
+
+
+
+
+
+.callpanel521255 .container{ width: 100%; max-width: 1140px; }
+.callpanel521255 .container > :first-child + div   { margin-top: 0 !important; padding-top: 0 !important; }
+.callpanel521255 .container > :last-child > :last-child { margin-bottom: 0 !important; }
+
+
+
+
+@media (min-width:769px) {
+	.callpanel521255.padding{
+        padding: 100px 0px 100px 0px !important;
+    }
+}
+
+
+</style>
+
+
+	
+        
+        
+    		<div class="callpanel521255 padding">
+        		<div class="container">
+            		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="textComponent textComponent867190" style="background:transparent !important;">
+	<h2 style="text-align: center;"><span class="rteLightText" style="color: rgb(255,255,255);">Intrepid: President's Report 2023</span></h2>
+
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	
+    
+      
+</style>
+
+
+    
+    
+        
+        
+            <div class="row">
+                
+                    <div class="col-md-4 margin_b_30 col-sm-4 col-xs-12 columnGeneratorClass columnGenerator810087_0">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imgComp margin_t_20">
+	<div id="cq-image-jsp-/content/referenced-components/home-page-references/2022-q1/jcr:content/par_udel_panel/columngenerator_1112435193/par/panelforpages/par_1/columngenerator_380438153/par_0/image">
+		<img src="/content/referenced-components/home-page-references/2022-q1/_jcr_content/par_udel_panel/columngenerator_1112435193/par/panelforpages/par_1/columngenerator_380438153/par_0/image.img.jpg/udel" alt=" " title=" " class="cq-dd-image">
+	</div>
+	
+</div>
+
+
+<script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq-image-jsp-/content/referenced-components/home-page-references/2022-q1/jcr:content/par_udel_panel/columngenerator_1112435193/par/panelforpages/par_1/columngenerator_380438153/par_0/image");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/udelImages/president/president-report/2023/president-report23-1.jpg", imageTitle: " " }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "udel/components/pageComponets/image"})');
+        }
+        
+    })();
+</script>
+
+
+
+
+                        </div>
+                    
+                
+                    <div class="col-md-4 margin_b_30 col-sm-4 col-xs-12 columnGeneratorClass columnGenerator810087_1">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imgComp margin_t_20">
+	<div id="cq-image-jsp-/content/referenced-components/home-page-references/2022-q1/jcr:content/par_udel_panel/columngenerator_1112435193/par/panelforpages/par_1/columngenerator_380438153/par_1/image">
+		<img src="/content/referenced-components/home-page-references/2022-q1/_jcr_content/par_udel_panel/columngenerator_1112435193/par/panelforpages/par_1/columngenerator_380438153/par_1/image.img.jpg/udel" alt=" " title=" " class="cq-dd-image">
+	</div>
+	
+</div>
+
+
+<script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq-image-jsp-/content/referenced-components/home-page-references/2022-q1/jcr:content/par_udel_panel/columngenerator_1112435193/par/panelforpages/par_1/columngenerator_380438153/par_1/image");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/udelImages/president/president-report/2023/president-report23-2.jpg", imageTitle: " " }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "udel/components/pageComponets/image"})');
+        }
+        
+    })();
+</script>
+
+
+
+
+                        </div>
+                    
+                
+                    <div class="col-md-4 margin_b_30 col-sm-4 col-xs-12 columnGeneratorClass columnGenerator810087_2">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imgComp margin_t_20">
+	<div id="cq-image-jsp-/content/referenced-components/home-page-references/2022-q1/jcr:content/par_udel_panel/columngenerator_1112435193/par/panelforpages/par_1/columngenerator_380438153/par_2/image">
+		<img src="/content/referenced-components/home-page-references/2022-q1/_jcr_content/par_udel_panel/columngenerator_1112435193/par/panelforpages/par_1/columngenerator_380438153/par_2/image.img.jpg/udel" alt=" " title=" " class="cq-dd-image">
+	</div>
+	
+</div>
+
+
+<script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq-image-jsp-/content/referenced-components/home-page-references/2022-q1/jcr:content/par_udel_panel/columngenerator_1112435193/par/panelforpages/par_1/columngenerator_380438153/par_2/image");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/udelImages/president/president-report/2023/president-report23-3.jpg", imageTitle: " " }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "udel/components/pageComponets/image"})');
+        }
+        
+    })();
+</script>
+
+
+
+
+                        </div>
+                    
+                
+            </div>
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="textComponent textComponent337752" style="background:transparent !important;">
+	<h3><span class="rteLightText" style="color: #FFFFFF;">The University of Delaware is a global community of leaders, explorers, innovators, creators and ambitious visionaries, committed to excellence in scholarship and service.</span></h3>
+<p><a adhocenable="false" href="/about/leadership/president/annual-report/"><span class="button-light">View the President's Report</span></a></p>
+
+	
+</div>
+
+
+
+
+
+            	</div>
+        	</div>
+        
+	
+    
+
+
+
+
+    
+    
+
+    </div>
+    
+</div>
+
+<div>
+    
+
+
+
+<div>
+</div>
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+<div>
+    
+    <div class="cq-dd-paragraph">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	
+    
+      
+</style>
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.callpanel864041{
+	width: 100%;
+    padding: 25px 0px;
+    
+    
+    	background-color:#009DDB;
+	
+    
+    	background-position: center top;
+	
+	
+}
+
+
+
+
+
+.callpanel864041 .container{ width: 100%; max-width: 1140px; }
+.callpanel864041 .container > :first-child + div   { margin-top: 0 !important; padding-top: 0 !important; }
+.callpanel864041 .container > :last-child > :last-child { margin-bottom: 0 !important; }
+
+
+
+
+@media (min-width:769px) {
+	.callpanel864041.padding{
+        padding: 100px 0px 100px 0px !important;
+    }
+}
+
+
+</style>
+
+
+	
+        
+        
+    		<div class="callpanel864041 padding">
+        		<div class="container">
+            		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	
+    
+      
+</style>
+
+
+    
+    
+        
+        
+            <div class="row">
+                
+                    <div class="col-md-6 margin_b_30 col-sm-6 col-xs-12 columnGeneratorClass columnGenerator164818_0">
+                        
+
+
+
+
+
+
+
+
+<div class="textComponent margin_t_20">
+    <h2 style="text-align: center;"><span class="rteLightText" style="color: #ffffff;">Campus Events</span></h2>
+&nbsp;
+
+<div id="localist-widget-93613720" class="localist-widget"></div><script defer="" type="text/javascript" src="https://events.udel.edu/widget/view?schools=udel&amp;days=90&amp;num=5&amp;picks=1&amp;hidedesc=1&amp;hideimage=1&amp;container=localist-widget-93613720"></script><div id="lclst_widget_footer"><a style="margin-left:auto;margin-right:auto;display:block;width:81px;margin-top:10px;" title="Widget powered by Localist Event Calendar Software" href="https://www.localist.com?utm_source=widget&amp;utm_campaign=widget_footer&amp;utm_medium=branded%20link"><img src="//d3e1o4bcbhmj8g.cloudfront.net/assets/platforms/default/about/widget_footer.png" alt="Localist Online Calendar Software" style="vertical-align: middle;" width="81" height="23"></a></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="callToActionComponent whiteBackground-darkBlueText margin_t_20">
+		<h3>
+            
+			 <a href="https://events.udel.edu" aria-label="Events Calendar">
+			<i class="fa fa-calendar fa-lg" aria-hidden="true"></i>
+			Events Calendar
+			
+				&gt;
+			
+			</a>
+		</h3>
+	</div>
+
+
+
+
+                        </div>
+                    
+                
+                    <div class="col-md-6 margin_b_30 col-sm-6 col-xs-12 columnGeneratorClass columnGenerator164818_1">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imgComp margin_t_20">
+	<div id="cq-image-jsp-/content/referenced-components/home-page-references/2022-q3/jcr:content/par_udel_panel/columngenerator_457747539/par/panelforpages/par_1/columngenerator/par_1/image">
+		<img src="/content/referenced-components/home-page-references/2022-q3/_jcr_content/par_udel_panel/columngenerator_457747539/par/panelforpages/par_1/columngenerator/par_1/image.img.png/udel" alt="Two students smiling on The Green" title="Two students smiling on The Green" class="cq-dd-image">
+	</div>
+	
+</div>
+
+
+<script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq-image-jsp-/content/referenced-components/home-page-references/2022-q3/jcr:content/par_udel_panel/columngenerator_457747539/par/panelforpages/par_1/columngenerator/par_1/image");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/udelImages/main/photography/people/students/students-square-gold.png", imageTitle: "Two students smiling on The Green" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "udel/components/pageComponets/image"})');
+        }
+        
+    })();
+</script>
+
+
+
+
+                        </div>
+                    
+                
+            </div>
+        
+    
+
+
+            	</div>
+        	</div>
+        
+	
+    
+
+
+
+
+    
+    
+
+    </div>
+    
+</div>
+
+<div>
+    
+
+
+
+<div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.callpanel773936{
+	width: 100%;
+    padding: 25px 0px;
+    
+    
+    	background-color:#003976;
+	
+    
+    	background-position: center top;
+	
+	
+}
+
+
+
+
+
+.callpanel773936 .container{ width: 100%; max-width: 1140px; }
+.callpanel773936 .container > :first-child + div   { margin-top: 0 !important; padding-top: 0 !important; }
+.callpanel773936 .container > :last-child > :last-child { margin-bottom: 0 !important; }
+
+
+
+
+@media (min-width:769px) {
+	.callpanel773936.padding{
+        padding: 30px 0px 30px 0px !important;
+    }
+}
+
+
+</style>
+
+
+	
+        
+        
+    		<div class="callpanel773936 padding">
+        		<div class="container">
+            		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="textComponent textComponent673053" style="background:transparent !important;">
+	<h2 style="text-align: center;"><span class="rteLightText" style="color: #FFFFFF;">COVID-19 Updates</span></h2>
+<h4 style="text-align: center;"><span class="rteLightText" style="color: #FFFFFF;">UD's COVID-19 information website provides guidance for students, faculty, staff, and visitors.</span></h4>
+<h3 style="text-align: center;"><a adhocenable="false" href="/home/coronavirus/"><span class="button-light">Visit website</span></a></h3>
+
+	
+</div>
+
+
+
+
+
+            	</div>
+        	</div>
+        
+	
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.callpanel402483{
+	width: 100%;
+    padding: 25px 0px;
+    
+    
+    	background-color:#EEEEEE;
+	
+    
+    	background-position: center top;
+	
+	
+}
+
+
+
+
+
+.callpanel402483 .container{ width: 100%; max-width: 1140px; }
+.callpanel402483 .container > :first-child + div   { margin-top: 0 !important; padding-top: 0 !important; }
+.callpanel402483 .container > :last-child > :last-child { margin-bottom: 0 !important; }
+
+
+
+
+@media (min-width:769px) {
+	.callpanel402483.padding{
+        padding: 60px 0px 60px 0px !important;
+    }
+}
+
+
+</style>
+
+
+	
+        
+        
+    		<div class="callpanel402483 padding">
+        		<div class="container">
+            		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="textComponent textComponent615946" style="background:transparent !important;">
+	<h3>UD's commitment to an equitable and inclusive environment</h3>
+<h4>The University of Delaware does not discriminate against any person on the basis of race, color, national origin, sex, gender identity or expression, sexual orientation, genetic information, marital status, disability, religion, age, veteran status or any other characteristic protected by applicable law in its employment, educational programs and activities, admissions policies, and scholarship and loan programs as required by Title IX of the Educational Amendments of 1972, the Americans with Disabilities Act of 1990, Section 504 of the Rehabilitation Act of 1973, Title VII of the Civil Rights Act of 1964, and other applicable statutes and University policies. The University of Delaware also prohibits unlawful harassment including sexual harassment and sexual violence.</h4>
+<h4><a adhocenable="false" href="https://sites.udel.edu/oei/"><span class="button-light">Office of Equity &amp; Inclusion&nbsp;</span></a></h4>
+
+	
+</div>
+
+
+
+
+
+            	</div>
+        	</div>
+        
+	
+    
+
+
+
+
+		</div>
+    </div>
+</div>
+
+<script>
+    if($.trim($('.leftnav_overhero .col-xs-12.col-sm-12.col-md-6.col-lg-6').html()).length == 0) {
+        $('.leftnav_overhero .col-xs-12.col-sm-12.col-md-6.col-lg-6').addClass('hidden-xs');
+    }
+</script>
+        
+
+
+
+
+
+
+	<footer>
+ 		
+
+<div class="section"></div><div class="iparys_inherited"><div class="par_pagefooter iparsys udelparsys">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-back-to-top">
+    <div class="glyphicon glyphicon-menu-up"></div>
+	<div>TOP</div>
+</div>
+<div class="container">
+	<div class="header">
+   		  <div class="logo_footer">
+			 <img src="/content/udel/en/_jcr_content/par_pagefooter/globalfooter.img.png/1672668605978.png" alt="ud-monogram-2018" title="ud-monogram-2018" class="cq-dd-image">
+          </div>
+        <span><img src="" alt=""></span>
+	</div>
+    
+	<div class="carousel">
+    	
+        	
+               	<div class="carousel-item">
+                   	
+					
+					    <a href="/udphotos/" title="Explore UD in Photos">
+					        <img src="/content/dam/udelImages/main/photography/people/students/footer-udinphotos-pfw.jpg" alt="View photo galleries of UD events, students, and our campus">
+					        <div class="image-data">
+                                <span>Explore UD in Photos</span>
+					        </div>
+					    </a>
+					
+                </div>
+            
+               	<div class="carousel-item">
+                   	
+					
+					    <a href="/apply/undergraduate-admissions/major-finder/" title="Undergraduate Major Finder">
+					        <img src="/content/dam/udelImages/main/photography/people/students/footer-majorfinder-esports.JPG" alt="View available undergraduate majors">
+					        <div class="image-data">
+                                <span>Undergraduate Major Finder</span>
+					        </div>
+					    </a>
+					
+                </div>
+            
+               	<div class="carousel-item">
+                   	
+					
+					    <a href="/academics/colleges/grad/prospective-students/programs/" title="Graduate Program Finder">
+					        <img src="/content/dam/udelImages/main/photography/people/students/footer-graduate-program-finder-bmeg.jpg" alt="View available programs for graduate students">
+					        <div class="image-data">
+                                <span>Graduate Program Finder</span>
+					        </div>
+					    </a>
+					
+                </div>
+            
+  		
+	</div>
+	<div class="link-ud-home">
+            <a style="text-decoration:none !important" href="/home/"><i class="fa fa-home"></i>&nbsp;<span>UD Home</span></a>
+    </div>
+	<hr>
+	<div>
+		<div class="row footer-links">
+			<div class="col-xs-4 col-sm-3 col-md-3">
+            <div class="link-header"><h3>EXPLORE</h3></div>
+            	<ul>
+                   	
+    					
+        					<li><a href="/about/" title="About Us">About Us</a></li>
+            			
+        					<li><a href="/athletics/" title="Athletics">Athletics</a></li>
+            			
+        					<li><a href="/udaily/" title="UDaily">UDaily</a></li>
+            			
+        					<li><a href="/apply/undergraduate-admissions/plan-your-visit/virtual-visit/" title="Virtual Tour">Virtual Tour</a></li>
+            			
+        					<li><a href="/faculty-staff/human-resources/careers/" title="Employment">Employment</a></li>
+            			
+         			
+				</ul>
+			</div>
+			<div class="col-xs-5 col-sm-3 col-md-3">
+               <div class="link-header"><h3>ACADEMICS</h3></div>
+               <ul>
+                    
+                		
+                        	<li><a href="/apply/undergraduate-admissions/" title="Undergraduate Admissions">Undergraduate Admissions</a></li>
+                        
+                        	<li><a href="/academics/colleges/grad/" title="Graduate Admissions">Graduate Admissions</a></li>
+                        
+                        	<li><a href="/academics/colleges/" title="Colleges">Colleges</a></li>
+                        
+                        	<li><a href="https://library.udel.edu" title="Library">Library</a></li>
+                        
+                        	<li><a href="/research-innovation/" title="Research">Research</a></li>
+                        
+                    
+				</ul>
+			</div>
+			<div class="services col-xs-3 col-sm-3 col-md-3">
+            	<div class="link-header"><h3>SERVICES</h3></div>
+                <ul>
+                    
+                      	
+                    	    <li><a href="/home/legal-notices/accessibility/" title="Accessibility Notice">Accessibility Notice</a></li>
+                        
+                    	    <li><a href="https://www1.udel.edu/peoplesearch/" title="People Directory ">People Directory </a></li>
+                        
+                    	    <li><a href="https://my.udel.edu/" title="My UD">My UD</a></li>
+                        
+                    	    <li><a href="https://www1.udel.edu/police/" title="Campus Safety ">Campus Safety </a></li>
+                        
+                    	    <li><a href="/home/a-z/" title="A to Z Index">A to Z Index</a></li>
+                        
+                    
+				</ul>
+			</div>
+			<hr class="visible-xs-block">
+			<div class="col-xs-12 col-sm-3 col-md-3">
+               <div class="link-header"><h3>CONNECT</h3></div>
+               <ul>
+                    <li><a href="/home/contact-ud/" target="_self">Contact Us</a></li>
+                        <li>University of Delaware Newark, DE 19716 USA   <a aria-label="University of Delaware | Google map" href="https://goo.gl/maps/kYvTqC5k5ok"><i class="fa fa-map-marker"></i></a></li>
+                    <li>P:   302-831-2792</li>
+                    <div class="social-icons-desktop">
+                    <li class="social-icons">
+                    	<ul>
+                        	
+                            	
+                                	<li>
+                                    	<a href="https://twitter.com/UDelaware" title="Twitter"><img title="Twitter" src="/content/dam/udelImages/main/graphics/socialIcons/twitter.png" target="_blank" alt="Twitter"></a>
+                                    </li>
+                                
+                                	<li>
+                                    	<a href="https://www.facebook.com/udelaware" title="Facebook"><img title="Facebook" src="/content/dam/udelImages/main/graphics/socialIcons/facebook.png" target="_blank" alt="Facebook"></a>
+                                    </li>
+                                
+                                	<li>
+                                    	<a href="https://www.instagram.com/udelaware" title="Instagram"><img title="Instagram" src="/content/dam/udelImages/main/graphics/socialIcons/instagram.png" target="_blank" alt="Instagram"></a>
+                                    </li>
+                                
+                                	<li>
+                                    	<a href="https://www.youtube.com/univdelaware" title="Youtube"><img title="Youtube" src="/content/dam/udelImages/main/graphics/socialIcons/youtube.png" target="_blank" alt="Youtube"></a>
+                                    </li>
+                                
+                                	<li>
+                                    	<a href="https://www.pinterest.com/udelaware/" title="Pinterest"><img title="Pinterest" src="/content/dam/udelImages/main/graphics/socialIcons/pininterest.png" target="_blank" alt="Pinterest"></a>
+                                    </li>
+                                
+                                	<li>
+                                    	<a href="https://www.linkedin.com/edu/school?id=18070" title="Linkedin"><img title="Linkedin" src="/content/dam/udelImages/main/graphics/socialIcons/linkedin.png" target="_blank" alt="Linkedin"></a>
+                                    </li>
+                                
+                            
+                        </ul>
+               		</li>
+                    </div>
+               	</ul>
+	  		</div>
+        </div>
+	</div>
+    <hr>
+    
+
+    
+
+    <div class="container">
+		<div class="client-logo-container">
+			<ul>
+            	
+			</ul>
+		</div>
+	</div>
+
+
+
+<div class="social-icons social-icons-mobile">
+	<ul style="text-align:center;">
+    	
+    		
+   			<li style="display:inline-block;"><a href="https://twitter.com/UDelaware" title="Twitter"><img title="Twitter" src="/content/dam/udelImages/main/graphics/socialIcons/twitter.png" target="_blank" alt="Twitter"></a></li>
+    		
+   			<li style="display:inline-block;"><a href="https://www.facebook.com/udelaware" title="Facebook"><img title="Facebook" src="/content/dam/udelImages/main/graphics/socialIcons/facebook.png" target="_blank" alt="Facebook"></a></li>
+    		
+   			<li style="display:inline-block;"><a href="https://www.instagram.com/udelaware" title="Instagram"><img title="Instagram" src="/content/dam/udelImages/main/graphics/socialIcons/instagram.png" target="_blank" alt="Instagram"></a></li>
+    		
+   			<li style="display:inline-block;"><a href="https://www.youtube.com/univdelaware" title="Youtube"><img title="Youtube" src="/content/dam/udelImages/main/graphics/socialIcons/youtube.png" target="_blank" alt="Youtube"></a></li>
+    		
+   			<li style="display:inline-block;"><a href="https://www.pinterest.com/udelaware/" title="Pinterest"><img title="Pinterest" src="/content/dam/udelImages/main/graphics/socialIcons/pininterest.png" target="_blank" alt="Pinterest"></a></li>
+    		
+   			<li style="display:inline-block;"><a href="https://www.linkedin.com/edu/school?id=18070" title="Linkedin"><img title="Linkedin" src="/content/dam/udelImages/main/graphics/socialIcons/linkedin.png" target="_blank" alt="Linkedin"></a></li>
+    		
+    	
+    </ul>
+</div>
+
+</div>
+
+<div class="links full-width">
+	<div class="container-fluid">
+         
+   	        <div class="link-item">
+       	        ©2023 University of Delaware
+            </div>
+    	
+        
+	   	 	
+    	        <div class="link-item">
+                <a href="/home/comments/">Comments</a>
+                </div>
+	        
+    	        <div class="link-item">
+                <a href="/home/legal-notices/">Legal Notices</a>
+                </div>
+	        
+    	        <div class="link-item">
+                <a href="/home/legal-notices/accessibility/">Accessibility </a>
+                </div>
+	        
+    	
+    </div>
+</div>
+
+<style>
+	.mainPageTitleWrapperHavingHero .mainPageTitle { width: auto; }
+</style>
+
+
+
+
+
+
+<div class="textComponent margin_t_20">
+    
+</div></div>
+</div>
+
+	</footer>
+
+
+<!-- Global JS -->
+
+<!-- accordion specific JS. The plugin is so that on mobile we can change bootstrap tabs to accordions. uses the same bootstrap-tab-collapse.js plugin as is used on the Tabs Component. -->
+        
+
+
+<link rel="stylesheet" href="/etc/designs/udel/clientlibs.min.42c5364ee13ba7b69cdc6736fe023389.css" type="text/css">
+<script src="/etc/designs/udel/clientlibs.min.js"></script>
+
+<link rel="stylesheet" href="/etc/designs/udel/font-awesome.min.b8ebdd1174009999d77f8a770d4f4e3d.css" type="text/css">
+
+    </div>
+
